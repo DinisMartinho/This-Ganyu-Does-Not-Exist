@@ -6,6 +6,6 @@ This ProGAN implementation was built on top of the YouTube video from **Aladdin 
 <h2 align="center"></h1>
 
 <p float="left" align="middle">
-  <img src="https://media.discordapp.net/attachments/911296727103983678/1095396783707918476/8db4b741-de31-4641-ba85-a4cd1bff02bc.png?width=676&height=676" width="25%" hspace="10"/>
-  <img src="https://media.discordapp.net/attachments/911296727103983678/1095396784630681850/87e8ed31-c917-4703-b649-b5714b44292c.png?width=676&height=676" width="25%" hspace="10"/> 
+  <img src="https://media.discordapp.net/attachments/911296727103983678/1095396783707918476/8db4b741-de31-4641-ba85-a4cd1bff02bc.png?width=676&height=676" width="45%" hspace="10"/>
+  <img src="https://media.discordapp.net/attachments/911296727103983678/1095396784630681850/87e8ed31-c917-4703-b649-b5714b44292c.png?width=676&height=676" width="45%" hspace="10"/> 
 </p>
