@@ -9,4 +9,4 @@ This ProGAN implementation was built on top of the YouTube video from **Aladdin 
 </p>
 
 
-**Please note** that the code in this repository is for demonstration purposes only, and only includes the generator for generating images. The training loops and discriminator architectures are not included. With its sophisticated neural network architecture and modifications, this ProGAN is capable of generating high-resolution Ganyu faces with remarkable detail.
+**Please note** that the code in this repository is for demonstration purposes only, and only includes the generator for generating images. The training loops and discriminator architectures are not included. This ProGAN is capable of generating high-resolution Ganyu faces with remarkable detail.
